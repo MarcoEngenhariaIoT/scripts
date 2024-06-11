@@ -15,7 +15,7 @@ As instruções estão nos próprios arquivos.
 LICENÇA:
 Esses códigos podem ser copiados e editados livremente desde que seja referenciado a minha autoria.
 
-##########################################################################################################
+#################################################################################
 # scripts
 This repository includes some useful Python scripts customized to run on Linux.
 
